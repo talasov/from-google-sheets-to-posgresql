@@ -2,9 +2,9 @@
 
 scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
 CREDINTIAL_FILE = 'client_secret.json'
-SPREADSHHETS_ID = '1IjZfH3S8gbhdLWGDKvPaswqJOUe9-f5Vke0XNCj6p_0'
-spreadsheet_id = '1IjZfH3S8gbhdLWGDKvPaswqJOUe9-f5Vke0XNCj6p_0'  # my_table
-spreadsheet_id2 = '1tr3wizWAjfT6bHYPUW8h7Pd3r9lH8-dKoJPvPAdN_tM' # new_table
+SPREADSHHETS_ID = 'id_sheet'
+spreadsheet_id = 'id_sheet''  # my_table
+spreadsheet_id2 = 'id_sheet'' # new_table
 
 '''Posgresql'''
 
@@ -21,5 +21,5 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 ''' Telegram'''
 
-token = '5588469587:AAGYDoetsmqk51P_4nlSiPiE0Nui9WOX2Os'
+token = '***'
 telegram_id = 5412477464
